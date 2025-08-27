@@ -1,1 +1,2 @@
-git remote add origin https://github.com/ArshiaPX/telegram-bot.git
+
+https://github.com/ArshiaPX/telegram-bot.git
